@@ -1,8 +1,8 @@
-public class ContactMnanager { //classa
+public class ContactMananager { //classa
         Contact [] myFriends; //array
         int friendsCount; // licznik kontktow
 
-        ContactMnanager(){ //konstruktor
+        ContactMananager(){ //konstruktor
         this.friendsCount = 0;
         this.myFriends = new Contact[500]; //
         }
@@ -20,3 +20,4 @@ public class ContactMnanager { //classa
         }
         return null;
         }
+
