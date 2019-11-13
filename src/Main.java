@@ -1,5 +1,5 @@
-public class Main {
-    public static void main(String [] args){
-        System.out.println("Hellooooooo world!");
-    }
-}
+class Main {
+public static void main(String [] args){
+        ContactManager myContactManager = new ContactManager();
+        }
+        }
